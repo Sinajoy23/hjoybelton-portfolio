@@ -6,14 +6,15 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 ## 💰 Personal Finance Tracker
 **Role:** Python Developer  
 **Tech:** Python, Pandas, CSV  
-**Overview:** Built a lightweight expense and income tracker for managing freelance and personal finances. Used it to organize tax records and automate basic calculations.  
+**Overview:** Designed and built a personal finance tracker using Python. It allows users to record expenses, categorize spending, and generate summaries for budgeting or tax prep.  
 **Skills Demonstrated:**  
-- CSV parsing and data manipulation using Pandas  
-- Budget categorization and total tracking  
-- Created exportable summary reports for clients and tax season  
+- Used dictionaries and tuples to store categorized financial data  
+- Implemented input validation and loops for user-friendly CLI  
+- Modularized logic into functions (`add_expense`, `view_summary`, etc.)  
+- Applied exception handling (`try/except`) for real-world inputs  
+- Created printable summaries for freelance/self-employment use  
 **📁 [GitHub Repo](https://github.com/Sinajoy23/python-capstone-finance-tracker)**
 
----
 
 ## Breach Beach Security Lab (Coming Soon)
 **Role:** DevOps + Security Lead  
@@ -29,7 +30,6 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 
 ![Coming Soon Screenshot](coming-soon.png)
 
----
 
 ## AI Text Completion App
 **Role:** Python Dev + AI Integrator  
@@ -42,8 +42,6 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 **📁 [GitHub Repo](https://github.com/Sinajoy23/ai-text-completion-project)**  
 ⚠️ *Note: API key is hidden for security. Requires OpenAI API key to run locally.*
 
-
----
 
 ## My First Security Homelab Write-Up
 **Role:** Solo Project  
