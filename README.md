@@ -3,6 +3,16 @@ Hasina Joy Belton's – Technical Portfolio
 
 Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, freelancing, and hands-on projects in cloud security, AI, and automation. I’m currently freelancing and participating in fellowships focused on cybersecurity and cloud innovation.
 
+## 🧾 Personal Finance Tracker
+**Role:** Python Developer  
+**Tech:** Python, Pandas, CSV  
+**Overview:** Built a lightweight expense and income tracker for managing freelance and personal finances. Used it to organize tax records and automate basic calculations.  
+**Skills Demonstrated:**  
+- CSV parsing and data manipulation using Pandas  
+- Budget categorization and total tracking  
+- Created exportable summary reports for clients and tax season  
+**📁 [GitHub Repo](https://github.com/Sinajoy23/python-capstone-finance-tracker)**
+
 ---
 
 ## 🔐 Breach Beach Security Lab (Coming Soon)
