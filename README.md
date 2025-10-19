@@ -61,7 +61,7 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
     detection & logging pipelines
   - Network design: NAT + host-only segments with firewall rules
 
-  <p><a href="docs/homelab-writeup.pdf">Open the full PDF</a></p>
+  <p><a href="homelab-writeup.pdf">Open the full PDF</a></p>
 </details>
 
 ---
