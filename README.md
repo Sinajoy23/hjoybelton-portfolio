@@ -16,8 +16,8 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 - Infrastructure as Code (Terraform)  
 - CI/CD pipeline with GitHub Actions  
 
-📸  
-![Coming Soon Screenshot](images/coming-soon.png)
+
+![Coming Soon Screenshot](coming-soon.png)
 
 ---
 
