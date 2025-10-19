@@ -53,7 +53,16 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 - Simulated brute-force attacks with Hydra  
 - Captured packets using Wireshark  
 - Hardened Linux environment   
-**📄 [View Write-Up](#)** ← *You’ll update this link soon*
+<details>
+  <summary><b>📄 View Homelab Write-Up (PDF)</b></summary>
+
+  - Tools: Kali, pfSense/OPNsense, Suricata/Snort, Splunk
+  - What I practiced: scanning (Nmap), brute-force (Hydra), packet analysis (Wireshark),
+    detection & logging pipelines
+  - Network design: NAT + host-only segments with firewall rules
+
+  <p><a href="docs/homelab-writeup.pdf">Open the full PDF</a></p>
+</details>
 
 ---
 
