@@ -28,8 +28,8 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 - CI/CD pipeline with GitHub Actions  
 
 <p align="center">
-  <img src="coming-soon.png" alt="Coming Soon" width="240">
-  ![Coming Soon Screenshot](coming-soon.png)
+  <img src="coming-soon.png" alt="Coming Soon" width="240"></p>
+  <p></p>![Coming Soon Screenshot](coming-soon.png)
 
 </p>
 
