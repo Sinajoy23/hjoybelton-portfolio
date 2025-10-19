@@ -16,7 +16,7 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 **📁 [GitHub Repo](https://github.com/Sinajoy23/python-capstone-finance-tracker)**
 
 
-## Breach Beach Security Lab (Coming Soon)
+## 🌴 Breach Beach Security Lab (Coming Soon)
 **Role:** DevOps + Security Lead  
 **Tech:** AWS, Terraform, GuardDuty, CloudTrail, GitHub Actions  
 **Overview:** Building a cloud-based security training lab to simulate real-world attacks using AWS services.  
@@ -32,7 +32,7 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
   
 
 
-## AI Text Completion App
+##   AI Text Completion App
 **Role:** Python Dev + AI Integrator  
 **Tech:** Python, OpenAI API (GPT-3.5), Flask  
 **Overview:** Built a lightweight text-generation app that accepts user prompts and returns AI-powered completions using OpenAI's API. Originally attempted to use Hugging Face models, but pivoted to OpenAI due to deployment/API limitations — demonstrating adaptability.  
@@ -44,7 +44,7 @@ Hi, I’m Joy – a tech-savvy creative with a background in risk analysis, free
 ⚠️ *Note: API key is hidden for security. Requires OpenAI API key to run locally.*
 
 
-## My First Security Homelab Write-Up
+##   My First Security Homelab Write-Up
 **Role:** Solo Project  
 **Tech:** Mac Mini, Wireshark, Snort, Kali Linux, VM Isolation  
 **Overview:** Designed and implemented a personal homelab for learning Blue Team and Red Team skills.  
